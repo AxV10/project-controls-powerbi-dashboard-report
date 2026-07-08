@@ -60,3 +60,26 @@ I am responsible for the ongoing development and maintenance of this dashboard, 
 ## Disclaimer
 
 This repository contains demonstration material only. All proprietary project information, client names, financial data, and other confidential information have been removed or anonymized.
+
+# Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard]
+
+## Engineering & Procurement Dashboard
+
+![Engineering Procurement Dashboard]
+
+## Health & Safety Dashboard
+
+![Health & Safety Dashboard]
+
+## Health & Safety Log Dashboard
+
+![Health & Safety Log Dashboard]
+
+## Submittals Dashboard
+
+![Submittals Dashboard]
+
